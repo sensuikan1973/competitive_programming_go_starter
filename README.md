@@ -4,6 +4,7 @@
 
 - Docker
 - VSCode
+  - install [`Remote Development`](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 
 ## Usage
 
