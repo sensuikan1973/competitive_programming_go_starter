@@ -21,10 +21,6 @@
 		"vscode": {
 			// Set *default* container specific settings.json values on container create.
 			"settings": {
-				"dotfiles.repository": "https://github.com/sensuikan1973/dotfiles.git",
-				"dotfiles.targetPath": "~/dotfiles",
-				"dotfiles.installCommand": "~/dotfiles/setup.zsh",
-				"terminal.integrated.shell.*": "/usr/bin/env zsh",
 				"go.toolsManagement.checkForUpdates": "local",
 				"go.useLanguageServer": true,
 				"go.gopath": "/go",
