@@ -17,6 +17,17 @@
   <img width="600" alt="image" src="https://user-images.githubusercontent.com/23427957/181918285-83492d33-8d34-45d6-9584-d16f436a774b.png">
 6. enjoy your competitive programming !
 
+## Tips
+You can also run directly.
+
+```sh
+vscode ➜ /workspaces/competitive_programming_go_starter (main) $ go run main.go 
+1
+2
+1st input:  1
+2nd input:  2
+```
+
 # Reference
 
 - [VSCode | Developing inside a Container](https://code.visualstudio.com/docs/remote/containers)
