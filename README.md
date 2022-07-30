@@ -1,4 +1,4 @@
-# Go Starter For Competitive programming
+# Go Starter For Competitive Programming
 
 ## Requirements
 
