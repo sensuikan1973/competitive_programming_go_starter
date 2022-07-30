@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+      {
+          "name": "Run Go Program",
+          "type": "go",
+          "request": "launch",
+          "mode": "debug",
+          "program": "${workspaceFolder}/main.go",
+          // See: https://github.com/golang/vscode-go/blob/master/docs/debugging.md#handling-stdin
+          "console": "integratedTerminal"
+      }
+  ]
+}
