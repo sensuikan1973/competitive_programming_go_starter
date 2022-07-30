@@ -19,7 +19,7 @@
 6. enjoy your competitive programming !
 
 ### Tips
-You can also run directly without debugger.
+You can also run directly without Debugger.
 
 ```sh
 vscode ➜ /workspaces/competitive_programming_go_starter (main) $ go run main.go 
