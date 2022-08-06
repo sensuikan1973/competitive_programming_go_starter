@@ -12,23 +12,25 @@
 1. Click `Repoen in Container`.  
     <img width="400" alt="image" src="https://user-images.githubusercontent.com/23427957/181916516-c55c54fc-ad15-49b0-a33e-171188610936.png">
 1. You can develop inside the Container !  
-1. Run Go Program with Debugger.   
-    <img height="200" alt="image" src="https://user-images.githubusercontent.com/23427957/181916608-7d7a7b3e-e01e-4eb2-8f99-ae0ee51f5ce0.png">
-1. You can input STDIN on Terminal Tab.  
-1. enjoy your competitive programming !
 
-### Tips
-You can also run directly without Debugger.
-
+### Run
 ```sh
 vscode ➜ /workspaces/competitive_programming_go_starter (main) $ go run main.go 
 1 2 3
 aaaa
 bbbb
 cccc
-1st input:  1
-2nd input:  2
+
+1st line intgers: [1 2 3]
+string line: aaaa
+string line: bbbb
+string line: cccc
 ```
+
+### Debug
+1. Run Go Program with Debugger.   
+    <img height="200" alt="image" src="https://user-images.githubusercontent.com/23427957/181916608-7d7a7b3e-e01e-4eb2-8f99-ae0ee51f5ce0.png">
+1. You can input STDIN on Terminal Tab.  
 
 # Reference
 

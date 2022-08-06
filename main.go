@@ -92,6 +92,11 @@ func readIntSlice() []int {
 func example() {
 	fmt.Printf("1st line intgers: %v\n", readIntSlice())
 	for {
-		fmt.Printf("many lines: %s\n", readline())
+		fmt.Printf("string line: %s\n", readline())
 	}
 }
+
+1 2 3
+aaaa
+bbbb
+cccc
