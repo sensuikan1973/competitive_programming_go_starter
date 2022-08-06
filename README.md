@@ -16,15 +16,15 @@
 ### Run
 ```sh
 vscode ➜ /workspaces/competitive_programming_go_starter (main) $ go run main.go 
-1 2 3
+3
 aaaa
 bbbb
 cccc
 
-1st line intgers: [1 2 3]
-string line: aaaa
-string line: bbbb
-string line: cccc
+line num: 3
+string: aaaa
+string: bbbb
+string: cccc
 ```
 
 ### Debug
