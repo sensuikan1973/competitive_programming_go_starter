@@ -84,14 +84,15 @@ func readIntSlice() []int {
 
 // input example
 // ----------
-// 1 2 3
+// 3
 // aaaa
 // bbbb
 // cccc
 // ----------
 func example() {
-	fmt.Printf("1st line intgers: %v\n", readIntSlice())
-	for {
-		fmt.Printf("string line: %s\n", readline())
+	line := readint()
+	fmt.Printf("line num: %d\n", line)
+	for i := 0; i < line; i++ {
+		fmt.Printf("string: %s\n", readline())
 	}
 }
