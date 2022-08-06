@@ -95,8 +95,3 @@ func example() {
 		fmt.Printf("string line: %s\n", readline())
 	}
 }
-
-1 2 3
-aaaa
-bbbb
-cccc
