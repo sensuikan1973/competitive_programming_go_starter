@@ -14,8 +14,7 @@
 1. You can develop inside the Container !  
 1. Run Go Program with Debugger.   
     <img height="200" alt="image" src="https://user-images.githubusercontent.com/23427957/181916608-7d7a7b3e-e01e-4eb2-8f99-ae0ee51f5ce0.png">
-1. You can input STDIN.  
-    <img width="600" alt="image" src="https://user-images.githubusercontent.com/23427957/181918285-83492d33-8d34-45d6-9584-d16f436a774b.png">
+1. You can input STDIN on Terminal Tab.  
 1. enjoy your competitive programming !
 
 ### Tips
@@ -23,8 +22,10 @@ You can also run directly without Debugger.
 
 ```sh
 vscode ➜ /workspaces/competitive_programming_go_starter (main) $ go run main.go 
-1
-2
+1 2 3
+aaaa
+bbbb
+cccc
 1st input:  1
 2nd input:  2
 ```
