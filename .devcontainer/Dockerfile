@@ -17,4 +17,5 @@ RUN if [ "${NODE_VERSION}" != "none" ]; then su vscode -c ". /usr/local/share/nv
 # [Optional] Uncomment this line to install global node packages.
 # RUN su vscode -c "source /usr/local/share/nvm/nvm.sh && npm install -g <your-package-here>" 2>&1
 
-RUN GO111MODULE=on go get -u golang.org/x/tools/gopls@latest
+# See: https://github.com/golang/go/issues/45732
+RUN GO111MODULE=on go get golang.org/x/tools/gopls@latest
